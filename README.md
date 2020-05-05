@@ -1,1 +1,2 @@
-# automation-aws-databases-templates
+# Automating AWS databases with CloudFormation
+
